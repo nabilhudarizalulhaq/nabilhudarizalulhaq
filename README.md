@@ -1,4 +1,4 @@
-<img src="nabilbanner.png" alt="GitHub Banner" width="100%" />
+<img src="nabilbanner.jpeg" alt="GitHub Banner" width="100%" />
 
 <h1>Hi 👋, I'm nabil</h1>
 <p>A passionate mobile developer from </p>
