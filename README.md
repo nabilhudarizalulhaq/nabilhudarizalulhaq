@@ -40,6 +40,3 @@
 <img src="https://raw.githubusercontent.com/nabilhudarizalulhaq/nabilhudarizalulhaq/output/snake.svg" alt="Snake animation" />
 
 ###
-<img src="https://raw.githubusercontent.com/nabilhudarizalulhaq/nabilhudarizalulhaq/output/snake.svg" alt="Snake animation" />
-
-###
