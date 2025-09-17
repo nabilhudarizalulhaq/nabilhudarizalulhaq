@@ -1,4 +1,4 @@
-<img src="Image 29-08-25 at 02.38.jpeg" alt="GitHub Banner" width="100%" />
+<img src="Image 17-09-2025 at 20.36.jpeg" alt="GitHub Banner" width="100%" />
 
 <h1>Hi 👋, I'm nabil</h1>
 <p>A passionate mobile developer from </p>
